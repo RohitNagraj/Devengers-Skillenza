@@ -1,0 +1,5 @@
+deploy:
+  provide: azure_web_apps
+  username: sawoodrocket@gmail.com
+  password: 20harris40
+  site: apiavocetss
